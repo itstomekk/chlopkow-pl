@@ -1,0 +1,3 @@
+* text=auto eol=lf
+# Preserve surviving archived prose whitespace; do not apply code whitespace rules to generated pages.
+docs/**/*.html -whitespace

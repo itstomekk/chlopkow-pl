@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+# Raw Wayback captures and private game references must never enter this repository.
+raw/
+references/
+*.tmp
