@@ -2,8 +2,16 @@
 
 ## Current state
 
-Generated and locally validated on 2026-10-18. Publication is authorized by Tomek in the original
-request: public repo `itstomekk/chlopkow-pl`, GitHub Pages from `main/docs`.
+Published and verified on 2026-10-18: https://itstomekk.github.io/chlopkow-pl/
+Public repo `itstomekk/chlopkow-pl`, GitHub Pages from `main/docs`. Initial release `988e31f`.
+GitHub Pages reported built for the exact release commit. Nine live files matched the local
+release after newline normalization. Live Firefox desktop/mobile, legend navigation and 60
+guestbook entries passed with no page errors. Four focused unit tests pass, including the
+nested-table truncation regression.
+
+Knowledge integration is local in the game project: `wiedza/archiwum-chlopkow-pl.md`, linked
+from `wiedza/fakty-o-chlopkowie.md`. It points to the reusable corpus and separates historical
+source claims, folklore and game fiction. No game-runtime changes, game commit or game deploy.
 
 - 175 article records: 41 recovered full-view HTML pages and 134 listing intros. Some full-view
   pages were image-only, so the surviving page is not proof the original images were recovered.
