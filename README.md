@@ -58,9 +58,11 @@ Prosimy o dwie rzeczy:
 1. Wysyłaj zdjęcia i teksty tylko wtedy, gdy masz prawo je udostępnić, i napisz, kto jest autorem.
 2. Nie wklejaj w publicznym issue cudzych telefonów, adresów e-mail ani innych prywatnych danych.
 
-## ⚖️ Prawa autorskie
+## ⚖️ Licencje i prawa autorskie
 
-Prawa do odzyskanych artykułów i zdjęć mają ich autorzy. Nie ma tu pliku LICENSE i nie nadajemy żadnej ogólnej licencji na treści z archiwum.
+**Kod** (`build.py`, `safe_html.py`, testy, `validate.py` oraz arkusz stylów i ikona w `assets/`) jest na licencji [MIT](LICENSE).
+
+**Treści archiwum nie są objęte tą licencją.** Prawa do odzyskanych artykułów, zdjęć i wpisów mają ich autorzy. Dotyczy to wygenerowanej strony w `docs/` i danych w `data/`. Nie nadajemy na te treści żadnej licencji.
 
 ## 🛠️ Dla programistów
 
@@ -75,7 +77,7 @@ An archive of **Chłopków.pl**, the village website of Chłopków (gmina Plater
 
 It holds 175 article records (41 full pages, 134 listing intros), 60 guestbook entries, 22 variants of the "Did you know..." module and 219 gallery captions. No original photo files were recovered. E-mail addresses and phone numbers were removed. Nothing is invented to fill gaps.
 
-If you have old photos, saved pages or memories of Chłopków, please [open an issue](https://github.com/itstomekk/chlopkow-pl/issues/new). Copyright of the recovered material stays with its authors; no blanket license is asserted. Build notes: [DEVELOPMENT.md](DEVELOPMENT.md).
+If you have old photos, saved pages or memories of Chłopków, please [open an issue](https://github.com/itstomekk/chlopkow-pl/issues/new). The code is MIT licensed ([LICENSE](LICENSE)). Copyright of the recovered material stays with its authors; no license is granted for it. Build notes: [DEVELOPMENT.md](DEVELOPMENT.md).
 
 </details>
 

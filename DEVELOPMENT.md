@@ -25,7 +25,7 @@ Current recovery: 175 article records, 41 full-view captures and 134 listing int
 entries, 22 historical fact-module variants, 219 photo captions across six gallery categories.
 No original photo files have been recovered. Some full-view pages were image-only; their missing
 images are not reconstructed or replaced with invented content. Original copyright remains with
-its authors; no blanket license is asserted over recovered articles or future image recoveries.
+its authors; the MIT license in `LICENSE` covers the code only, not recovered articles, data or future image recoveries.
 
 ## Rebuild
 
